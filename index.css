@@ -1,0 +1,22 @@
+body {
+  background-color: bisque;
+  color: rgb(105, 101, 101);
+}
+#header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 10px;
+  background-color: purple;
+}
+h1 {
+  color: aqua;
+}
+
+li {
+  font-size: 45px;
+  color: red;
+  background-color: yellow;
+  margin: 35px;
+  padding: 35px;
+}
